@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(255, 0, 162);
+}
+h1{
+    color: rgb(174, 255, 0);
+    font-size: rem;
+}
+
+h3{
+    color: rgb(128, 0, 43);
+    font-size: rem;
+}
+
+p{
+    color: rgb(0, 140, 255);
+    font-size: 2.5rem;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    border-radius: 14px;
+    background-color: rgb(128, 128, 128);
+    
+}
